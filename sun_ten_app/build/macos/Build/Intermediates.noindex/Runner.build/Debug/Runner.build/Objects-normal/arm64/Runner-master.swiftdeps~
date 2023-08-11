@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6c0befa5184bb520607de4286e2633accff7e702a84f015a388f8e8b9de88c24"
+build_start_time: [1673502207, 293038845]
+build_end_time: [1673502207, 306718826]
+inputs:
+  "/Users/quentinc/Desktop/SunTen/sun_ten_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1673502190, 726067781]
+  "/Users/quentinc/Desktop/SunTen/sun_ten_app/macos/Runner/AppDelegate.swift": !private [1671141040, 0]
+  "/Users/quentinc/Desktop/SunTen/sun_ten_app/macos/Runner/MainFlutterWindow.swift": !private [1671141040, 0]

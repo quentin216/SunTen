@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "bc855e8e13eb3df56d06bb84f981e9b106b77bddefd1aa4eb29e304ab2c2316e"
+build_start_time: [1674391859, 781411170]
+build_end_time: [1674391863, 784476041]
+inputs:
+  "/Users/quentinc/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/macos/Classes/Logger.swift": [1674082536, 693765640]
+  "/Users/quentinc/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/macos/Classes/NotificationsHandler.swift": [1674082536, 694052696]
+  "/Users/quentinc/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/macos/Classes/SwiftAudioplayersPlugin.swift": [1674082536, 693632364]
+  "/Users/quentinc/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/macos/Classes/Utils.swift": [1674082536, 694229125]
+  "/Users/quentinc/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.20.1/macos/Classes/WrappedMediaPlayer.swift": [1674082536, 693348407]
